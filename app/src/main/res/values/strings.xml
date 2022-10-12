@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPBooks</string>
+    <string name="book_image">Imagen del libro</string>
+</resources>
